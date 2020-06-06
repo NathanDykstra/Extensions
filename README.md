@@ -1,2 +1,2 @@
 # Extensions
-Various helpful extension methods
+Various helpful extension methods for use in .NET projects.
